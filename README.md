@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://uwu.gal/static/images/banner.png" />
-    <img src="https://raw.githubusercontent.com/ijsbol/ijsbol/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/ijsbol/ijsbol/refs/heads/output/github-contribution-grid-snake-dark.svg">
 </p>
 <p>
     <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=E93909&style=for-the-badge" />
