@@ -1,4 +1,4 @@
-<img src="https://uwu.gal/button.png" />
+<a href="https://uwu.gal"><img src="https://uwu.gal/button.png" /></a>
 <hr>
 <p align="center">
     <img src="https://uwu.gal/static/images/banner.png" />
