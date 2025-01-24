@@ -19,6 +19,7 @@
     <li><b><a href="https://crbn.cfd">carbon</a></b> <i>(10M users)</i></li>
     <li><b><a href="https://headscratchers.xyz">headscratchers</a></b> <i>(1M users)</i></li>
     <li><b><a href="https://github.com/ijsbol/httpcord">httpcord</a></b> <i>(discord api wrapper)</i> </li>
+    <li><b><a href="https://github.com/ijsbol/ytmdpy">ytmdpy</a></b> <i>(API wrapper for <a href="https://github.com/ytmdesktop/ytmdesktop">Youtube Music Desktop</a>)</i> </li>
     <li><b><a href="https://github.com/ijsbol/spotify-now-playing-api">spotify now playing api</a></b></li>
     <li><b><a href="https://github.com/ijsbol/simple-blogging-platform">simple blogging platform</a></b></li>
     <li><b><a href="https://github.com/ijsbol/discord-avatar-collage-maker">discord avatar collage maker</a></b></li>
