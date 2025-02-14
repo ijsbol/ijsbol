@@ -1,9 +1,9 @@
 <p align="center">
     <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=62/></a>
-    <img src="https://uwu.gal/static/images/banner.png" />
-    <img src="https://raw.githubusercontent.com/ijsbol/ijsbol/refs/heads/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://api.uwu.gal/stats/views/image?colour=E93909&label_colour=555555&label=profile%20views">
-    <img src="https://wakatime.com/badge/user/43346e4f-0734-4170-8497-1c663c8584c2.svg?style=for-the-badge&color=E93909" alt="Total time coded since Oct 16 2024" />
+    <a href="https://uwu.gal"><img src="https://uwu.gal/static/images/banner.png" /></a>
+    <a href="https://uwu.gal"><img src="https://raw.githubusercontent.com/ijsbol/ijsbol/refs/heads/output/github-contribution-grid-snake-dark.svg"></a>
+    <a href="https://uwu.gal"><img src="https://api.uwu.gal/stats/views/image?colour=E93909&label_colour=555555&label=profile%20views"></a>
+    <a href="https://wakatime.com/@scrumpy"> <img src="https://wakatime.com/badge/user/43346e4f-0734-4170-8497-1c663c8584c2.svg?style=for-the-badge&color=E93909" alt="Total time coded since Oct 16 2024" /></a>
 </p>
 <hr>
 <h1>Projects</h1>
