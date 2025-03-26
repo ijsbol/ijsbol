@@ -23,6 +23,7 @@
     <li><b><a href="https://github.com/ijsbol/id.uwu.gal">id.uwu.gal</a></b> <i>(identicon generator)</i></li>
     <li><b><a href="https://github.com/ijsbol/what-tld">what tld</a></b> <i>(find available tlds for a domain)</i></li>
     <li><b><a href="https://github.com/ijsbol/short-domains">short domains</a></b> <i>(find available short domains)</i></li>
+    <li><b><a href="https://github.com/ijsbol/cloudflare-worker-pricing-calculator">cloudflare worker pricing calculator</a></b></li>
     <li><b><a href="https://uwu.gal/blueskull">blueskull</a></b> <i>(bluesky network tracker)</i></li>
 </ul>
 <hr>
