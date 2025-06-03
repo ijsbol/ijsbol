@@ -4,7 +4,7 @@
 <hr>
 <h1>About me</h1>
 I'm a <code>21-year-old</code> woman-shaped they-thingy who has been programming since <code>2010</code>.<br>
-I currently live in 🇳🇱, though I have lived in 3 other countries, and have been to 20+ educational institutions.<br>
+I currently live in 🇳🇱, though I have lived in 3 other countries..<br>
 <br>
 <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=28 /></a>
 <a href="https://uwu.gal"><img src="https://api.uwu.gal/stats/views/image?colour=E93909&label_colour=555555&label=profile%20views"></a>
