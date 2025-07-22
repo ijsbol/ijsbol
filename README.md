@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1>About me</h1>
-I'm a <code>21-year-old</code> lesbian shaped creature that will feed off your soul, who has been programming since <code>2010</code>.<br>
+I'm Tofu, a <code>21-year-old</code> lesbian shaped creature that will feed off your soul, who has been programming since <code>2010</code>.<br>
 I currently live in The Netherlands 🇳🇱, though I have previously lived in 3 other countries.<br>
 <br>
 <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=28 /></a>
@@ -14,7 +14,7 @@ I currently live in The Netherlands 🇳🇱, though I have previously lived in 
 <ul>
     <li><b><a href="https://maki.gg">maki.gg</a></b> <i>(120M users)</i></li>
     <li><b><a href="https://scrumpbot.com">scrump</a></b> <i>(35M users)</i></li>
-    <li><b><a href="https://lunaphoebe.com/projects/carbon">carbon</a></b> <i>(10M users)</i></li>
+    <li><b><a href="https://lunaphoebe.com/projects/carbon">carbon</a></b> <i>(10M users) [discontinued]</i></li>
     <li><b><a href="https://lunaphoebe.com/projects/headscratchers">headscratchers</a></b> <i>(1M users)</i></li>
     <li><b><a href="https://git.uwu.gal/pygeolocate">pygeolocate</a></b> <i>(Python Geolocation Package)</i> <img src="https://img.shields.io/pypi/dm/pygeolocate?style=for-the-badge" height=20 /></li>
     <li><b><a href="https://git.uwu.gal/ijsbol/httpcord">httpcord</a></b> <i>(discord api wrapper)</i> <img src="https://img.shields.io/pypi/dm/httpcord?style=for-the-badge" height=20 /></li>
@@ -32,4 +32,4 @@ I currently live in The Netherlands 🇳🇱, though I have previously lived in 
     <li><b><a href="https://uwu.gal/blueskull">blueskull</a></b> <i>(bluesky network tracker)</i></li>
 </ul>
 <hr>
-<a href="https://uwu.gal"><img src="https://did.institute/static/images/banner2.gif"/></a>
+<a href="https://uwu.gal"><img src="https://did.institute/static/images/banner4.png"/></a>
