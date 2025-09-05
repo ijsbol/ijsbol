@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1>About me</h1>
-I'm Tofu, a <code>21-year-old</code> lesbian shaped creature that will feed off your soul, who has been programming since <code>2010</code>.<br>
+I'm Scrumpy, a <code>21-year-old</code> lesbian shaped creature that will feed off your soul, who has been programming since <code>2010</code>.<br>
 I currently live in The Netherlands 🇳🇱, though I have previously lived in 3 other countries.<br>
 <br>
 <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=28 /></a>
