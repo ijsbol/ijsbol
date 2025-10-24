@@ -10,7 +10,6 @@ I currently live in The Netherlands 🇳🇱, though I have previously lived in 
 <a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" height=28 /></a>
 <a href="https://did.institute"><img src="https://did.institute/static/images/button.png" height=28 /></a>
 <a href="https://uwu.gal"><img src="https://api.uwu.gal/stats/views/image?colour=4e7dba&label_colour=555555&label=profile%20views"></a>
-<a href="https://wakatime.com/@scrumpy"> <img src="https://wakatime.com/badge/user/43346e4f-0734-4170-8497-1c663c8584c2.svg?style=for-the-badge&color=4e7dba" alt="Total time coded since Oct 16 2024" /></a>
 <hr>
 <h1>Projects</h1>
 <ul>
