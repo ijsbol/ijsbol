@@ -7,6 +7,8 @@ I'm Scrumpy, a <code>22-year-old</code> lesbian shaped creature that will feed o
 I currently live in The Netherlands 🇳🇱, though I have previously lived in 3 other countries.<br>
 <br>
 <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=28 /></a>
+<a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" height=28 /></a>
+<a href="https://did.institute"><img src="https://did.institute/static/images/button.png" height=28 /></a>
 <a href="https://uwu.gal"><img src="https://api.uwu.gal/stats/views/image?colour=4e7dba&label_colour=555555&label=profile%20views"></a>
 <a href="https://wakatime.com/@scrumpy"> <img src="https://wakatime.com/badge/user/43346e4f-0734-4170-8497-1c663c8584c2.svg?style=for-the-badge&color=4e7dba" alt="Total time coded since Oct 16 2024" /></a>
 <hr>
