@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://uwu.gal"><img src="https://did.institute/static/images/banner4.png"/></a>
+    <a href="https://uwu.gal"><img src="https://raw.githubusercontent.com/ijsbol/ijsbol/refs/heads/main/banner.jpeg"/></a>
 </p>
 <p align="center">
     <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=28 /></a>
