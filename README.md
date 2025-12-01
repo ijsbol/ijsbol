@@ -10,7 +10,7 @@
 </p>
 <hr>
 hello, world!
-my name is abigail, i use they / them pronouns. i'm a 22 year old senior software engineer who has been programming since 2010 (15ish years), and professionally since 2017 (8ish years). i am also a masters student in computer science and mathematics; where i focus on advanced algorithms for computational astrophysics.
+my name is abigail, i use they / them pronouns. i'm a 22 year old senior software engineer and scientific researcher who has been programming since 2010 (15ish years), and professionally since 2017 (8ish years). i am also a masters student in computer science and mathematics; where i focus on advanced algorithms for computational astrophysics.
 <br><br>
 to learn more about me, you should check out my website, <a href="https://abigail.sh">abigail.sh</a>!
 <hr>
