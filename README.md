@@ -18,9 +18,9 @@ alongside my work, i am also a masters student in computer science and mathemati
 <br><br>
 to learn more about me, you should check out my websites with the 88x31px buttons below:
 <br>
-<a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=28 /></a>
-<a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" height=28 /></a>
-<a href="https://did.institute"><img src="https://did.institute/static/images/button.png" height=28 /></a>
+<a href="https://uwu.gal"><img src="https://uwu.gal/button.png" width=132 height=46 style="image-rendering: pixelated;"/></a>
+<a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" width=132 height=46 style="image-rendering: pixelated;"/></a>
+<a href="https://did.institute"><img src="https://did.institute/static/images/button.png" width=132 height=46 style="image-rendering: pixelated;"/></a>
 
 <p align="center">
     <a href="https://uwu.gal"><img src="https://raw.githubusercontent.com/ijsbol/ijsbol/refs/heads/output/github-contribution-grid-snake-dark.svg"></a>
