@@ -10,7 +10,7 @@
 <hr>
 hello, world!
 <br>
-my name is abigail, i use they / them pronouns. i'm a 22 year old senior software engineer and scientific researcher at an AI research lab based in amsterdam.
+my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old senior software engineer and scientific researcher at an AI research lab based in amsterdam.
 <br><br>
 i have been programming since 2010; professionally since 2017.
 <br>
@@ -18,10 +18,22 @@ alongside my work, i am also a masters student in computer science and mathemati
 <br><br>
 to learn more about me, you should check out my websites with the 88x31px buttons below:
 <br>
-<a href="https://uwu.gal"><img src="https://uwu.gal/button.png" width=132 height=46 style="image-rendering: pixelated;"/></a>
-<a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" width=132 height=46 style="image-rendering: pixelated;"/></a>
-<a href="https://did.institute"><img src="https://did.institute/static/images/button.png" width=132 height=46 style="image-rendering: pixelated;"/></a>
+<a href="https://uwu.gal"><img src="https://uwu.gal/button.png" width=88 height=31 style="image-rendering: pixelated;"/></a>
+<a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" width=88 height=31 style="image-rendering: pixelated;"/></a>
+<a href="https://did.institute"><img src="https://did.institute/static/images/button.png" width=88 height=31 style="image-rendering: pixelated;"/></a>
+<hr>
+<h3>i'm boring and don't want to use <code>dig</code>.</h3>
+fine. i'll do it for you.
+<code>
+    
+    % dig pronouns.abigail.sh txt  
 
+    ;; ANSWER SECTION:
+    pronouns.abigail.sh.	300	IN	TXT	"# https://github.com/CutieZone/pronouns-over-dns"
+    pronouns.abigail.sh.	300	IN	TXT	"they/them/their/theirs/themself; preferred"
+    pronouns.abigail.sh.	300	IN	TXT	"she/her/her/hers/herself"
+</code>
+<!-- if you have any idea how to stop github from displaying the stupid rendering issue with codeblocks that would be a great PR.......... --!>
 <p align="center">
     <a href="https://uwu.gal"><img src="https://raw.githubusercontent.com/ijsbol/ijsbol/refs/heads/output/github-contribution-grid-snake-dark.svg"></a>
 </p>
