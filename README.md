@@ -1,7 +1,7 @@
 <p align="center">
-    <a href="https://uwu.gal"><img src="https://raw.githubusercontent.com/ijsbol/ijsbol/refs/heads/main/banner.png"/></a>
+    <a href="https://abigail.sh"><img src="https://raw.githubusercontent.com/ijsbol/ijsbol/refs/heads/main/banner.jpg"/></a>
     <br>
-    <i>© abigail phoebe, 2025 : <a href="https://abigail.sh/photography/">abigail.sh/photography</a></i>
+    <i>self portrait © abigail phoebe, 2025 : <a href="https://abigail.sh/photography/">abigail.sh/photography</a></i>
 </p>
 <p align="center">
     <a href="https://uwu.gal"><img src="https://api.uwu.gal/stats/views/image?colour=4e7dba&label_colour=555555&label=profile%20views"></a>
