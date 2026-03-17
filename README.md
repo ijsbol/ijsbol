@@ -14,7 +14,7 @@ my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm
 <br><br>
 i have been programming since 2010; professionally since 2017.
 <br>
-alongside my work, i am also a masters student in computer science and mathematics, where i am focusing on visual computing for computational astrophysics.
+alongside my work, i am also a masters student in computer science and mathematics, where i am focusing on visual computing for computational astrophysics. despite my current career, i want to do astronautics in the future.
 <br><br>
 to learn more about me, you should check out my websites with the 88x31px buttons below:
 <br>
