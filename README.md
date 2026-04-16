@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://abigail.sh"><img src="https://raw.githubusercontent.com/ijsbol/ijsbol/refs/heads/main/banner.jpg"/></a>
     <br>
-    <i>self portrait © abigail phoebe, 2025 : <a href="https://abigail.sh/photography/">abigail.sh/photography</a></i>
+    <i>self portrait (yes, that's me!) © abigail phoebe, 2025 : <a href="https://abigail.sh/photography/">abigail.sh/photography</a></i>
 </p>
 <p align="center">
     <a href="https://uwu.gal"><img src="https://api.uwu.gal/stats/views/image?colour=4e7dba&label_colour=555555&label=profile%20views"></a>
@@ -10,11 +10,11 @@
 <hr>
 hello, world!
 <br>
-my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old senior software engineer and scientific researcher at an AI research lab based in amsterdam.
+my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old senior software engineer and scientific researcher at an AI research lab.
 <br><br>
 i have been programming since 2010; professionally since 2017.
-<br>
-alongside my work, i am also a masters student in computer science and mathematics, where i am focusing on visual computing for computational astrophysics. despite my current career, i want to do astronautics in the future.
+<br><br>
+alongside my work, i am also a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing. my masters thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and their <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid mission</a>. despite my current career, i want to do astronautics in the future.
 <br><br>
 to learn more about me, you should check out my websites with the 88x31px buttons below:
 <br>
