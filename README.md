@@ -16,11 +16,12 @@ i have been programming since 2010; professionally since 2017.
 <br><br>
 alongside my work, i am also a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing. my masters thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and their <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid mission</a>. despite my current career, i want to do astronautics in the future.
 <br><br>
+i publish some technical writeups and breakdowns of my projects & research at <a href="https://abigail.sh/writing/">abigail.sh/writing</a>. informal and shorter-form writing can be found at <a href="https://abigail.sh/notes">abigail.sh/notes</a>.
+<br><br>
 to learn more about me, you should check out my websites with the 88x31px buttons below:
 <br>
 <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" width=88 height=31 style="image-rendering: pixelated;"/></a>
 <a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" width=88 height=31 style="image-rendering: pixelated;"/></a>
-<a href="https://did.institute"><img src="https://did.institute/static/images/button.png" width=88 height=31 style="image-rendering: pixelated;"/></a>
 <hr>
 <h3>i'm boring and don't want to use <code>dig</code>.</h3>
 fine. i'll do it for you.
