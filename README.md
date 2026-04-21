@@ -10,7 +10,7 @@
 <hr>
 hello, world!
 <br>
-my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old senior software engineer and scientific researcher at an AI research lab.
+my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old software engineer, masters student, and scientific researcher at an AI research lab in amsterdam.
 <br><br>
 i have been programming since 2010; professionally since 2017.
 <br><br>
