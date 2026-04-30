@@ -12,11 +12,11 @@
 <hr>
 hello, world!
 <br>
-my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old software engineer, masters student, and scientific researcher at an AI research lab in amsterdam.
+my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old software engineer, masters student, navigation engineer, and scientific researcher at an AI research lab in amsterdam. 
 <br><br>
 i have been programming since 2010; professionally since 2017.
 <br><br>
-alongside my work, i am also a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing. my masters thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and their <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid mission</a>. despite my current career, i want to do astronautics in the future.
+alongside my work, i am also a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing. my masters thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and their <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid mission</a>. i'm also a navigation engineer for <a href="https://exploreabyss.org/">TU/e's submarine engineering team, Abyss</a>. despite my current career, i want to do astronautics in the future.
 <br><br>
 i publish some technical writeups and breakdowns of my projects & research at <a href="https://abigail.sh/writing/">abigail.sh/writing</a>. informal and shorter-form writing can be found at <a href="https://abigail.sh/notes">abigail.sh/notes</a>.
 <hr>
