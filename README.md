@@ -12,11 +12,9 @@
 <hr>
 hello, world!
 <br>
-my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old software engineer, masters student, navigation engineer, and scientific researcher at an AI research lab in amsterdam. 
+my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old software engineer and scientific researcher at an ai research lab in amsterdam. i have been programming since 2010; professionally since 2017.
 <br><br>
-i have been programming since 2010; professionally since 2017.
-<br><br>
-alongside my work, i am also a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing. my masters thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and their <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid mission</a>. i'm also a navigation engineer for <a href="https://exploreabyss.org/">TU/e's submarine engineering team, Abyss</a>. despite my current career, i want to do astronautics in the future.
+alongside my work, i am also a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing. my masters thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and their <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid mission</a>. i'm also a navigation engineer for <a href="https://exploreabyss.org/">TU/e's submarine engineering team, Abyss</a>. my long term goal is to do astronautics.
 <br><br>
 i publish some technical writeups and breakdowns of my projects & research at <a href="https://abigail.sh/writing/">abigail.sh/writing</a>. informal and shorter-form writing can be found at <a href="https://abigail.sh/notes">abigail.sh/notes</a>.
 <hr>
@@ -25,8 +23,8 @@ if you find yourself bored one evening and want to check out some cool things i 
 <ul>
     <li><a href="https://calascii.uwu.gal/">calascii</a> [<a href="https://github.com/ijsbol/calascii">git</a>]: an infinitely scrollable collaborative ascii art board.</li>
     <li><a href="https://ijsbol.github.io/asciicam/">asciicam</a> [<a href="https://github.com/ijsbol/asciicam">git</a>]: your webcam rendered as ascii art in browser.</li>
-    <li><a href="https://watch-list.uwu.gal">my watch list</a> [<a href="https://github.com/ijsbol/icloud-reminders-viewer">git</a>]: a watch list that syncs with your icloud reminders.</li>
-    <li><a href="https://abigail.sh/notes">my blog</a> [<a href="https://abigail.sh/writing">academic writing</a>]: my non academic blog and my academic writing.</li>
+    <li><a href="https://watch-list.uwu.gal">my watch list</a> [<a href="https://github.com/ijsbol/icloud-reminders-viewer">git</a>]: a watch list that syncs with your iCloud Reminders.</li>
+    <li><a href="https://abigail.sh/writing">academic writing</a> [<a href="https://abigail.sh/notes">& a blog</a>]: my academic writing, and a non-academic blog.</li>
     <li><a href="https://github.com/ijsbol?tab=repositories">any other project</a>: any of my other ~100 oss projects!</li>
 </ul>
 <hr>
