@@ -4,9 +4,12 @@
     <i>self portrait (yes, that's me!) © abigail phoebe, 2025 : <a href="https://abigail.sh/photography/">abigail.sh/photography</a></i>
 </p>
 <p align="center">
-    <a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" height=28 /></a>
     <a href="https://uwu.gal"><img src="https://api.uwu.gal/stats/views/image?colour=4e7dba&label_colour=555555&label=profile%20views"></a>
     <img src="https://img.shields.io/endpoint?url=https://wak.murph.sh/api/compat/shields/v1/abigail/interval:all_time&label=%28Wakatime%29%20All%20time&color=blue&style=for-the-badge&label_colour=555555&colour=4e7dba">
+</p>
+<p align="center">
+    <a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" height=28 /></a>
+    <a href="https://exploreabyss.org"><img src="https://abigail.sh/static/images/buttons/abyss.png" height=28 /></a>
     <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=28 /></a>
 </p>
 <hr>
