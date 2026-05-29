@@ -15,11 +15,13 @@
 <hr>
 hello, world!
 <br>
-my name is abigail, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old computer scientist and scientific researcher. i have been programming since 2010; professionally since 2017.
+my name is abigail<sup>[∗]</sup>, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old computer scientist and scientific researcher. i have been programming since 2010; professionally since 2017.
 <br><br>
 alongside my work, i am also a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing and simulation. my masters thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and their <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid mission</a>, developing data analytics tooling. i'm also a navigation engineer for <a href="https://exploreabyss.org/">TU/e's submarine engineering team, Abyss</a>. my long term goal is to do astronautics.
 <br><br>
 i publish some technical writeups and breakdowns of my projects & research at <a href="https://abigail.sh/writing/">abigail.sh/writing</a>. informal and shorter-form writing can be found at <a href="https://abigail.sh/notes">abigail.sh/notes</a>.
+<br><br>
+<sub>[∗] <a href="https://abigail.sh/~/my-name">occasionally known as Isabelle</a>.</sub>
 <hr>
 <h2>projects</h2>
 if you find yourself bored one evening and want to check out some cool things i made, i recommend the following:
