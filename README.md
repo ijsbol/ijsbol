@@ -15,13 +15,15 @@
 <hr>
 hello, world!
 <br>
-my name is abigail<sup>[∗]</sup>, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old computer scientist and scientific researcher. i have been programming since 2010; professionally since 2017.
+my name is abigail<sup>[※]</sup>, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old computer scientist and scientific researcher. i have been programming as a hobby since i was 6 years old, and professionally since i was 14.
 <br><br>
-i am also a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing and simulation. my masters thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and the <a href="https://www.euclid-ec.org/">euclid consortium</a>, where i am creating visualisations on large-scale cosmic structure ("<a href="https://science.nasa.gov/mission/hubble/science/science-highlights/mapping-the-cosmic-web/">the cosmic web</a>") as mapped by the <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid space telescope</a>. i'm also a navigation engineer for <a href="https://exploreabyss.org/">TU/e's submarine engineering team, Abyss</a>. my long term goal is to do astronautics.
+i'm a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing, simulation, and big data. my thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and the <a href="https://www.euclid-ec.org/">euclid consortium</a>, where i will be creating renderings of large-scale cosmic super structure ("<a href="https://science.nasa.gov/mission/hubble/science/science-highlights/mapping-the-cosmic-web/">the cosmic web</a>") as mapped by the <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid space telescope</a>.
+<br><br>
+i'm also a navigation engineer for <a href="https://exploreabyss.org/">TU/e's submarine engineering team, Abyss</a>. my long-term goal is to be an astronaut.
 <br><br>
 i publish some technical writeups and breakdowns of my projects & research at <a href="https://abigail.sh/writing/">abigail.sh/writing</a>. informal and shorter-form writing can be found at <a href="https://abigail.sh/notes">abigail.sh/notes</a>.
 <br><br>
-<sub>[∗] <a href="https://abigail.sh/~/my-name">occasionally known as Isabelle</a>.</sub>
+<sub>[※] <a href="https://abigail.sh/~/my-name">occasionally known as Isabelle</a>.</sub>
 <hr>
 <h2>projects</h2>
 if you find yourself bored one evening and want to check out some cool things i made, i recommend the following:
@@ -40,11 +42,9 @@ if you find yourself bored one evening and want to check out some cool things i 
 <h3>i'm boring and don't want to use <code>dig</code>.</h3>
 fine. i'll do it for you.
 
-```
-% dig pronouns.abigail.sh txt  
-
+<pre><code>% dig pronouns.abigail.sh txt
 ;; ANSWER SECTION:
 pronouns.abigail.sh.	300	IN	TXT	"# https://github.com/CutieZone/pronouns-over-dns"
 pronouns.abigail.sh.	300	IN	TXT	"they/them/their/theirs/themself; preferred"
 pronouns.abigail.sh.	300	IN	TXT	"she/her/her/hers/herself"
-```
+</code></pre>
