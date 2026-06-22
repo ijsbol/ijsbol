@@ -15,7 +15,7 @@
 <hr>
 hello, world!
 <br>
-my name is abigail<sup>[※]</sup>, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a 22 year old computer scientist and scientific researcher. i have been programming as a hobby since i was 6 years old, and professionally since i was 14.
+my name is abigail<sup>[※]</sup>, i use <code>dig pronouns.abigail.sh txt</code> pronouns. i'm a computer scientist and scientific researcher. i have been programming as a hobby since i was 6 years old, and professionally since i was 14.
 <br><br>
 i'm a masters student in computer science and mathematics at <a href="https://www.tue.nl/en/">eindhoven university of technology</a>, where i focus on visual computing, simulation, and big data. my thesis is in collaboration with the <a href="https://www.esa.int/">european space agency</a> and the <a href="https://www.euclid-ec.org/">euclid consortium</a>, where i will be creating renderings of large-scale cosmic super structure ("<a href="https://science.nasa.gov/mission/hubble/science/science-highlights/mapping-the-cosmic-web/">the cosmic web</a>") as mapped by the <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">euclid space telescope</a>.
 <br><br>
