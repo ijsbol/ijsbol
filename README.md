@@ -21,7 +21,7 @@ i'm a masters student in computer science and mathematics at <a href="https://ww
 <br><br>
 i'm also a navigation engineer for <a href="https://exploreabyss.org/">TU/e's submarine engineering team, Abyss</a>. my long-term goal is to be an astronaut.
 <br><br>
-i publish some technical writeups and breakdowns of my projects & research at <a href="https://abigail.sh/writing/">abigail.sh/writing</a>. informal and shorter-form writing can be found at <a href="https://abigail.sh/notes">abigail.sh/notes</a>.
+i publish some technical writeups and breakdowns of my projects & research at <a href="https://abigail.sh/blog/">abigail.sh/blog</a>. informal and shorter-form writing can be also be found there sometimes.
 <br><br>
 <sub>[※] <a href="https://abigail.sh/~/my-name">occasionally known as Isabelle</a>.</sub>
 <hr>
