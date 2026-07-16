@@ -32,7 +32,7 @@ if you find yourself bored one evening and want to check out some cool things i 
     <li><a href="https://calascii.uwu.gal/">calascii</a> [<a href="https://github.com/ijsbol/calascii">git</a>]: an infinitely scrollable collaborative ascii art board.</li>
     <li><a href="https://ijsbol.github.io/asciicam/">asciicam</a> [<a href="https://github.com/ijsbol/asciicam">git</a>]: your webcam rendered as ascii art in browser.</li>
     <li><a href="https://watch-list.uwu.gal">my watch list</a> [<a href="https://github.com/ijsbol/icloud-reminders-viewer">git</a>]: a watch list that syncs with your iCloud Reminders.</li>
-    <li><a href="https://abigail.sh/writing">academic writing</a> [<a href="https://abigail.sh/notes">& a blog</a>]: my academic writing, and a non-academic blog.</li>
+    <li><a href="https://abigail.sh/blog">my blog</a>: a blog where i post, academic writing, tech writeups, and random thoughts.</li>
     <li><a href="https://github.com/ijsbol?tab=repositories">any other project</a>: any of my other ~100 oss projects!</li>
 </ul>
 <hr>
