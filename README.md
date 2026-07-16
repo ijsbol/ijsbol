@@ -28,6 +28,7 @@ i publish some technical writeups and breakdowns of my projects & research at <a
 <h2>projects</h2>
 if you find yourself bored one evening and want to check out some cool things i made, i recommend the following:
 <ul>
+    <li><a href="https://scrumpbot.com/">scrump</a>: a feature packed-anti abuse and management tool for your Discord communities, 30M+ combined members.</li>
     <li><a href="https://calascii.uwu.gal/">calascii</a> [<a href="https://github.com/ijsbol/calascii">git</a>]: an infinitely scrollable collaborative ascii art board.</li>
     <li><a href="https://ijsbol.github.io/asciicam/">asciicam</a> [<a href="https://github.com/ijsbol/asciicam">git</a>]: your webcam rendered as ascii art in browser.</li>
     <li><a href="https://watch-list.uwu.gal">my watch list</a> [<a href="https://github.com/ijsbol/icloud-reminders-viewer">git</a>]: a watch list that syncs with your iCloud Reminders.</li>
