@@ -49,3 +49,6 @@ pronouns.abigail.sh.	300	IN	TXT	"# https://github.com/CutieZone/pronouns-over-dn
 pronouns.abigail.sh.	300	IN	TXT	"they/them/their/theirs/themself; preferred"
 pronouns.abigail.sh.	300	IN	TXT	"she/her/her/hers/herself"
 </code></pre>
+
+<a href="https://steam-readme-stats.uwu.gal/"><img src="https://steam-readme-stats.uwu.gal/api/76561198242540404/stats/badge/playtime?format=total_hours&style=for-the-badge"/></a>
+<a href="https://steam-readme-stats.uwu.gal/"><img src="https://steam-readme-stats.uwu.gal/api/76561198242540404/stats/badge/games?style=for-the-badge"/></a>
