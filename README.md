@@ -8,9 +8,11 @@
     <img src="https://img.shields.io/endpoint?url=https://wak.murph.sh/api/compat/shields/v1/abigail/interval:all_time&label=%28Wakatime%29%20All%20time&color=blue&style=for-the-badge&label_colour=555555&colour=4e7dba">
 </p>
 <p align="center">
-    <a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" height=28 /></a>
-    <a href="https://exploreabyss.org"><img src="https://abigail.sh/static/images/buttons/abyss.png" height=28 /></a>
-    <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=28 /></a>
+    <a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" height=31 width=88 style="image-rendering:pixelated" /></a>
+    <a href="https://exploreabyss.org"><img src="https://abigail.sh/static/images/buttons/vanity/abyss.png" height=31 width=88 style="image-rendering:pixelated" /></a>
+    <a href="https://the.inner-circle.fyi"><img src="https://abigail.sh/static/images/buttons/vanity/the-inner-circle.png" height=31 width=88 style="image-rendering:pixelated" /></a>
+    <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=31 width=88 /></a>
+    
 </p>
 <hr>
 hello, world!
