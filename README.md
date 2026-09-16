@@ -3,17 +3,18 @@
     <br>
     <i>self portrait (yes, that's me!) © abigail phoebe, 2025 : <a href="https://abigail.sh/photography/">abigail.sh/photography</a></i>
 </p>
-<p align="center">
-    <a href="https://uwu.gal"><img src="https://api.uwu.gal/stats/views/image?colour=4e7dba&label_colour=555555&label=profile%20views"></a>
-    <img src="https://img.shields.io/endpoint?url=https://wak.murph.sh/api/compat/shields/v1/abigail/interval:all_time&label=%28Wakatime%29%20All%20time&color=blue&style=for-the-badge&label_colour=555555&colour=4e7dba">
-</p>
-<p align="center">
-    <a href="https://abigail.sh"><img src="https://abigail.sh/static/images/button.png" height=31 width=88 style="image-rendering:pixelated" /></a>
-    <a href="https://exploreabyss.org"><img src="https://abigail.sh/static/images/buttons/vanity/abyss.png" height=31 width=88 style="image-rendering:pixelated" /></a>
-    <a href="https://the.inner-circle.fyi"><img src="https://abigail.sh/static/images/buttons/vanity/the-inner-circle.png" height=31 width=88 style="image-rendering:pixelated" /></a>
-    <a href="https://uwu.gal"><img src="https://uwu.gal/button.png" height=31 width=88 /></a>
-    
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://the.inner-circle.fyi"><img align="top" src="https://abigail.sh/static/images/buttons/vanity/the-inner-circle.png" width="88" height="31"></a></td>
+    <td rowspan="2"><img align="top" src="https://counter.abigail.sh/@abigail.sh:views?theme=moebooru&padding=0&offset=0&align=top&scale=2&pixelated=1&darkmode=0" height="150"></td>
+    <td><a href="https://abigail.sh"><img align="top" src="https://abigail.sh/static/images/button.png" width="88" height="31"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://uwu.gal"><img align="top" src="https://uwu.gal/button.png" width="88" height="31"></a></td>
+    <td><a href="https://exploreabyss.org"><img align="top" src="https://abigail.sh/static/images/buttons/vanity/abyss.png" width="88" height="31"></a></td>
+  </tr>
+</table>
+
 <hr>
 hello, world!
 <br>
@@ -54,3 +55,4 @@ pronouns.abigail.sh.	300	IN	TXT	"she/her/her/hers/herself"
 
 <a href="https://steam-readme-stats.uwu.gal/"><img src="https://steam-readme-stats.uwu.gal/api/76561198242540404/stats/badge/playtime?format=total_hours&style=for-the-badge"/></a>
 <a href="https://steam-readme-stats.uwu.gal/"><img src="https://steam-readme-stats.uwu.gal/api/76561198242540404/stats/badge/games?style=for-the-badge"/></a>
+<img src="https://img.shields.io/endpoint?url=https://wak.murph.sh/api/compat/shields/v1/abigail/interval:all_time&label=%28Wakatime%29%20All%20time&color=blue&style=for-the-badge&label_colour=555555&colour=4e7dba">
