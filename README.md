@@ -5,13 +5,13 @@
 </p>
 <table align="center">
   <tr>
-    <td><a href="https://the.inner-circle.fyi"><img align="top" src="https://abigail.sh/static/images/buttons/vanity/the-inner-circle.png" width="88" height="31"></a></td>
+    <td><a href="https://the.inner-circle.fyi"><img align="top" src="https://abigail.sh/static/images/buttons/vanity/the-inner-circle.ffd3cb.png" width="88" height="31"></a></td>
     <td rowspan="2"><img align="top" src="https://counter.abigail.sh/@abigail.sh:views?theme=moebooru&padding=0&offset=0&align=top&scale=2&pixelated=1&darkmode=0" height="150"></td>
     <td><a href="https://abigail.sh"><img align="top" src="https://abigail.sh/static/images/button.png" width="88" height="31"></a></td>
   </tr>
   <tr>
-    <td><a href="https://uwu.gal"><img align="top" src="https://uwu.gal/button.png" width="88" height="31"></a></td>
-    <td><a href="https://exploreabyss.org"><img align="top" src="https://abigail.sh/static/images/buttons/vanity/abyss.png" width="88" height="31"></a></td>
+    <td><a href="https://uwu.gal"><img align="top" src="https://abigail.sh/static/images/buttons/vanity/uwugal.1df41e.png" width="88" height="31"></a></td>
+    <td><a href="https://exploreabyss.org"><img align="top" src="https://abigail.sh/static/images/buttons/vanity/abyss.8a8a8f.png" width="88" height="31"></a></td>
   </tr>
 </table>
 
